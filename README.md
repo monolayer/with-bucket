@@ -22,7 +22,7 @@ npm install
 Start the local S3 server with:
 
 ```bash
-npm workloads start dev
+npm monolayer start dev
 ```
 
 Run the Next.js development server:

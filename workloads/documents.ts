@@ -1,4 +1,4 @@
-import { Bucket } from "@monolayer/workloads";
+import { Bucket } from "@monolayer/sdk";
 
 const documents = new Bucket("documents");
 
